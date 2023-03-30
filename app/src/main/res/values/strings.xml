@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Text To Speech</string>
+    <string name="Welcome_text">Android Studio\nText to Speech</string>
+    <string name="credits">Designed By Santhosh S 200701221 REC\nMobile Application Development Laboratory</string>
+    <string name="get_started">Get Started</string>
+    <string name="username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="reset">Reset?</string>
+    <string name="hello_again">Hello Again!</string>
+    <string name="hello_again2">Welcome back\nEnter your sentence below!!</string>
+    <string name="sentence">Enter Sentence</string>
+    <string name="speak">Speak</string>
+    <string name="welcome_user">Welcome User</string>
+</resources>
